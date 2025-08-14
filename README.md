@@ -111,7 +111,7 @@ Whether you are looking for **custom software** or want to **contribute to our p
 ## 🕹️ Contribution Animation
 
 <p align="center">
-  <img src="https://github.com/ikigugu-software-team/ikigugu-software-team/animated-logo.gif" alt="Contribution Snake Animation" />
+  <img src="https://github.com/ikigugu-software-team/ikigugu-software-team/animated-logo.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
