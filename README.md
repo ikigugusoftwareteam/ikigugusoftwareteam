@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ikigugusoftwareteam/animated-logo.gif" width="90" alt="Ikigugu Software Team Animated Logo"/>
+  <img src="https://github.com/ikigugusoftwareteam/ikigugusoftwareteam/animated-logo.gif" width="90" alt="Ikigugu Software Team Animated Logo"/>
 </p>
 
 ---
