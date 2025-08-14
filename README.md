@@ -84,6 +84,8 @@ We are a group of **software engineers, designers, and problem-solvers** working
 | Name | Role | GitHub |
 |------|------|--------|
 | Aime Claudien Mazimpaka | Full-Stack Developer | [@Aimecol](https://github.com/Aimecol) |
+
+| IRUTABYOSE Yoramu | Full-Stack Developer | [@meyoramu](https://github.com/meyoramu) |
 | ... | ... | ... |
 
 ---
