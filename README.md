@@ -102,8 +102,8 @@ Whether you are looking for **custom software** or want to **contribute to our p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikigugu-software-team&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikigugu-software-team&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ikigugusoftwareteam&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikigugusoftwareteam&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
