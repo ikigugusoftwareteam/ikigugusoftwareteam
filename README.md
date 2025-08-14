@@ -81,12 +81,12 @@ Our mission is to **empower communities and businesses** with cutting-edge techn
 
 We are a group of **software engineers, designers, and problem-solvers** working together to build impactful solutions.
 
-| Name | Role | GitHub |
-|------|------|--------|
-| Aime Claudien Mazimpaka | Full-Stack Developer | [@Aimecol](https://github.com/Aimecol) |
+| Name                     | Role                  | GitHub                                         |
+|--------------------------|-----------------------|------------------------------------------------|
+| Aime Claudien Mazimpaka  | Full-Stack Developer  | [@Aimecol](https://github.com/Aimecol)         |
+| IRUTABYOSE Yoramu        | Full-Stack Developer  | [@meyoramu](https://github.com/meyoramu)       |
+| ...                      | ...                   | ...                                            |
 
-| IRUTABYOSE Yoramu | Full-Stack Developer | [@meyoramu](https://github.com/meyoramu) |
-| ... | ... | ... |
 
 ---
 
